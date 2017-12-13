@@ -1,0 +1,13 @@
+﻿  stdafx.cpp
+  DLL_Hook.cpp
+c:\users\dieungocbao\source\repos\hook\dll1\dll_hook.cpp(9): warning C4273: 'MouseHookProc': inconsistent dll linkage
+  c:\users\dieungocbao\source\repos\hook\dll1\dll_hook.h(13): note: see previous definition of 'MouseHookProc'
+c:\users\dieungocbao\source\repos\hook\dll1\dll_hook.cpp(26): warning C4273: 'InstallHook': inconsistent dll linkage
+  c:\users\dieungocbao\source\repos\hook\dll1\dll_hook.h(14): note: see previous definition of 'InstallHook'
+c:\users\dieungocbao\source\repos\hook\dll1\dll_hook.cpp(37): warning C4273: 'RemoveHook': inconsistent dll linkage
+  c:\users\dieungocbao\source\repos\hook\dll1\dll_hook.h(15): note: see previous definition of 'RemoveHook'
+  dllmain.cpp
+  Dll1.cpp
+  Generating Code...
+     Creating library C:\Users\dieungocbao\source\repos\Hook\Debug\Dll1.lib and object C:\Users\dieungocbao\source\repos\Hook\Debug\Dll1.exp
+  Dll1.vcxproj -> C:\Users\dieungocbao\source\repos\Hook\Debug\Dll1.dll
